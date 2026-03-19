@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aansh671.aternos.me:49201",
-    "port": "49201"
+    "ip": "sootyanttanager.aternos.host:49201",
+    "port": 49201,
   ,
     "version": "",
     "try-creative": false
