@@ -6,10 +6,10 @@
     "type": "online"
   },
   "server": {
-    "ip": "sootyanttanager.aternos.host:49201"
-    "port": 49201,
+    "ip": "paper-159M.aternos.me"
+    "port": 32417,
   ,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
